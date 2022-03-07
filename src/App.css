@@ -1,0 +1,76 @@
+body {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.card {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+    background-color: #110f38;
+    border-style: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.profile {
+    width: 100%;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.inner-div {
+    padding: 20px;
+    text-align: left;
+}
+
+.title {
+    color: orange;
+    margin: auto;
+}
+
+
+.email-btn {
+    background-color: #fff;
+    width: 100px;
+    border: solid;
+    border-radius: 10px;
+    height: 30px;
+    padding: 10px 10px 20px 10px;
+    margin: 10px;
+    border-style: none;
+    font-weight: bold;
+}
+
+.link-btn {
+    background-color: #4476e3;
+    width: 100px;
+    border: solid;
+    border-radius: 10px;
+    height: 30px;
+    color: #fff;
+    padding: 8px 8px 18px 8px;
+    margin: 10px;
+    border-style: none;
+    font-weight: bold;
+}
+
+.footer-div{
+    height: 50px;
+    background-color: #01071c;
+}
+
+.icons {
+    margin-top: 15px;
+    margin-left: 10px;
+    padding: 5px;
+    color: gray;
+    
+}
